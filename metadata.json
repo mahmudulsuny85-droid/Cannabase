@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CannaBase",
+  "description": "An premium educational cannabis encyclopedia platform featuring a highly immersive, interactive 2.5D parallax landing experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
